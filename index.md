@@ -14,3 +14,8 @@ What can you expect here in the future:
 - Basic info [about me](https://about.me/sindyoke), so you can figure out what kind of person I am and whether you want to: contact me, hire me, befriend me
 
 For now this is just a placeholder, I am focusing on my Android blog, reading Android books, finishing courses.
+
+
+
+
+
