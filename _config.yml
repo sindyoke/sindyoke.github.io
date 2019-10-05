@@ -10,3 +10,28 @@ theme: jekyll-theme-slate
 permalink: /:year/:month/:day/:title
 # markdown: kramdown?
 # highlighter: rouge?
+
+include: ['_apps']
+
+defaults:
+- 
+  scope:
+    path: "_apps"
+  values:
+    layout: "portfolio"
+collections:
+  apps:
+  output: true
+  permalink: /portfolio/:title/
+  
+#  sort_by: order
+#  order:
+#   - yuhorducan.md
+#	- check_tokens.md
+#   - lovemeterpinklady.md
+#	- delta_quiz.md
+#	- bmw.md
+#	- honda.md
+#   - memory.md
+#	- chronotype_tracker.md
+#	- sindy_karaoke.md

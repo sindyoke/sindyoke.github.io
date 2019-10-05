@@ -5,7 +5,7 @@ layout: default
 Hello and welcome to my homepage :)
 
 What can you expect here in the future:
-- Android portfolio - business, freelance apps and personal projects
+- Android [portfolio]({% link sindyoke-android-portfolio.md %}) - business, freelance apps and personal projects
 - Android blog
   - my impressions of the conferences I visited
   - stuff I didn't find on one blogpost, but had to read _a lot_ to figure it out. I want to save you (and future me :) ) some time with that ;)
