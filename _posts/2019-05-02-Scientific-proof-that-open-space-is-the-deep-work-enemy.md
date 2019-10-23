@@ -31,7 +31,7 @@ What do we get? Constant noises! And the company usually expects you to deal wit
 
 ### Amazing hidden scientific connection I discovered
 
-One day I started to google _office noises_ (induced by having two colleagues munching cookies from a paper bag = munching x paper x crunchy cookies => despair!) and found out about a new word: **Misophonia**. You can google it, but the interesting fact is that people with thicker myelin are more prone to it!!! Wow! So if you practice, and learn to focus -> you get thicker myelin -> you are even more sensitive to office noise!
+One day I started to google _office noises_ (induced by having two colleagues munching cookies from a paper bag = munching x paper x crunchy cookies => they hit my auditory tolerance overload! :) ) and found out about a new word: **Misophonia**. You can google it, but the interesting fact is that people with thicker myelin are more prone to it!!! Wow! So if you practice, and learn to focus -> you get thicker myelin -> you are even more sensitive to office noise!
 
 ### Conclusion
 
