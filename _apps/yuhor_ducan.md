@@ -9,7 +9,7 @@ play: https://play.google.com/store/apps/details?id=rs.deltaholding.yuhorducan
 
 As I grew as a developer, this app grew in parallel :) I'm proud of some solutions, although as every developer, I would totally rewrite it! :)
 
-Being given only short textual specifications, I created the conceptual solution, initial design, UX and the entire Android application - front-end and Firebase back-end. But I have to thank my colleauges for answering many of my UX dilemmas, for testing and useful suggestions.
+Being given only short textual specifications, I created the conceptual solution, initial design, UX and the entire Android application - front-end and Firebase back-end. But I have to thank my colleagues for answering many of my UX dilemmas, for testing and useful suggestions.
 
 Application contains:
 - contact information for every store: address, phone, open hours, location on Google Maps, Street View
