@@ -38,6 +38,21 @@ The reason and drive is the same: I wanted to employ my talent for logic, mathem
 	<li><strong>Firebase</strong> - <a href="https://classroom.udacity.com/courses/ud009">Firebase Essentials for Android</a>, <a href="https://classroom.udacity.com/courses/ud0352">Firebase in a Weekend</a>, <a href="https://classroom.udacity.com/courses/ud354">Firebase Analytics: Android</a></li>
 </ul>
 
+<h3>Courses I am currently attending online</h3>
+<ul>
+	<li>
+		<strong>Android testing</strong> - <a href="https://www.udemy.com/course/professional-android-unit-testing/">Android Unit Testing and Test Driven Development</a>
+	</li>
+	
+	<li>
+		<strong>Kotlin</strong> - <a href="https://www.coursera.org/learn/kotlin-for-java-developers">Kotlin for Java Developers</a>, <a href="https://caster.io/courses/kotlin-programming-language">The Kotlin Programming Language</a>
+	</li>
+	
+	<li>
+		<strong>DevOps</strong> - <a href="https://www.edx.org/course/introduction-to-devops-and-site-reliability-engineering">Introduction to Site Reliability Engineering and DevOps</a>
+	</li>
+</ul>
+
 <a name="apps"></a>
 <h3>List of my Android applications</h3>
 This is the list of some Android projects I worked on. Some are for the company I work for, and the others are my private projects. I was the only developer on all, except BMW and Honda, where I inherited the code and published a few updates.
